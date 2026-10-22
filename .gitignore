@@ -1,0 +1,27 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Arquivos temporarios do Office
+~$*
+
+# Saidas de ferramenta
+node_modules/
+*.tmp
+*.bak
+
+# Diagramas: versione a fonte E a exportacao; nao versione caches
+*.excalidraw.bak
